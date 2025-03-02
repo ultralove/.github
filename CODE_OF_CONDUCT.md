@@ -41,7 +41,7 @@ This code of conduct applies to all repos and communities for Ultralove open sou
 
 ### Reporting Code of Conduct Issues
 
-We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting staff@ultraschall.io. Your report will be handled confidentially. In your report please include:
+We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting staff@ultralove.io. Your report will be handled confidentially. In your report please include:
 
 - Your contact information.
 - Names (real, usernames or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
